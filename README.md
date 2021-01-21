@@ -21,3 +21,12 @@ Utöver detta ska du bygga ut programmet med en ny funktion. Detta är att läsa
 
 ## Hjälpmedel
 Alla hjälpmedel är tillåtna: internet, böcker, egenskrivet material och tidigare labbar/annan kod är godkänt exempelvis. Det enda ni inte får göra är att kommunicera med en annan människa under tentans gång, det inkluderar bland annat fysiska personer, telefon och chat.
+
+## Redovisning
+Källkoden ska vara pushad till ett eget publikt repository på GitHub. Ert fullständiga namn, samt en *kort* reflektion över dina arkitekturella val, såsom:
+
+- Vad du valt att testa och varför?
+- Vilket/vilka designmönster har du valt, varför? Hade det gått att göra på ett annat sätt?
+- Hur mycket valde du att optimera koden, varför är det en rimlig nivå för vårt program?
+
+ska finnas med i README.md i repots main-branch (master).
