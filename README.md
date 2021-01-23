@@ -1,3 +1,6 @@
+# Sofia Lindgren
+
+
 # Tentamen i Clean code och testbar kod
 
 - Datum: 2021-01-21
